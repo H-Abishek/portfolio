@@ -658,6 +658,9 @@ border-radius: 1rem;
     .Education .line .box h2, h3, p {
         font-size: 15px;
     }
+    #Conatct {
+        margin-top: 70%;
+    }
     .contact {
     display: flex;
     justify-content: center;
@@ -678,4 +681,5 @@ border-radius: 1rem;
         width: 300px;
     }
 }
+
 
